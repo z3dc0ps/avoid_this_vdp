@@ -3,6 +3,6 @@ name: VDP Name
 about: Use this template.
 ---
 
-## VDP
+## VDP Name
 
 ## Proof
