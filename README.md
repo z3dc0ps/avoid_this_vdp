@@ -13,9 +13,13 @@
 
 ***Bug hunting is a test that finds bugs and vulnerabilities in websites, mobile apps, hardware, e.t.c. In a bug hunt, testers will carry out functional testing with the specific purpose of finding defects in a website or app’s functionality, compatibility or content***
 
-## Contribute :heavy_check_mark: 
+## How To Contribute :heavy_check_mark: 
 
 **You can submit your Issue to https://github.com/z3dc0ps/avoid_this_vdp/issues/new?template=issue_template.md**
+
+## check this VDP  
+**https://github.com/z3dc0ps/use-this-vdp**
+
 
 # VDP
 
