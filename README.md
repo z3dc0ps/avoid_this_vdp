@@ -29,6 +29,11 @@
 		<th>Reason</th>
 	</tr>
 	<tr>
+		<td>zte.com
+</td>
+		<td>Bad Experience</td>
+	</tr>
+	<tr>
 		<td>apptimize.com
 </td>
 		<td>Bad Experience</td>
