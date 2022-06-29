@@ -212,5 +212,9 @@
 		<td>yatra.com</td>
 		<td>Bad Experience</td>
 	</tr>
+	<tr>
+		<td>sendcloud.*</td>
+		<td>Bad Experience</td>
+	</tr>
 
 </table>
