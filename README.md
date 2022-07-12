@@ -3,6 +3,9 @@
 </p>
 
 
+# Note:
+send a sample email to the security team whether the responsible disclosure program is still runnnig or not.
+If no reply, try to find another program.
 
 # Disclaimer :warning:
 **The authors of this document take no responsibility for correctness. The Details are changed by the Bug Hunters. These issues are faced by bug hunters and verified during bug report.**<br>
